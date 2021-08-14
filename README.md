@@ -1,0 +1,1 @@
+This is the starting of Odin Project. testing somethings. I will add more details later on.
